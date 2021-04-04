@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"2.json"
+         "target":"1.json"
         }
     },
  "height":104,
@@ -28,7 +28,7 @@
                 }],
          "height":48,
          "id":23,
-         "name":"Start",
+         "name":"startLayer",
          "opacity":1,
          "properties":[
                 {
