@@ -1,0 +1,123 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "innenbühne.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Downloads/Tiled/Workshop.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 397.33333333333337,
+                "y": 281.33333333333326
+            }
+        },
+        "/Users/ral_mey/Downloads/Tiled/Workshop.tmx#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Downloads/Tiled/tileset-basechip-pipoya.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1440-198-max.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floortileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "food_and_drinks.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbühne.tmx": {
+            "scale": 1.0949710982658958,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 497.27339914480285,
+                "y": 431.9748719843742
+            }
+        },
+        "innenbühne.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 360,
+                "y": 393
+            }
+        },
+        "innenbühne.tmx#floortileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "innenbühne.tmx#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "innenbühne.tmx#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "tileset-basechip-pipoya.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset-lagerfeuer.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset-sz-banner.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset-sz-deko.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.height": 41,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 66,
+    "openFiles": [
+        "1440-198-max.tsx",
+        "food_and_drinks.tsx",
+        "tileset-basechip-pipoya.tsx",
+        "tileset-sz-deko.tsx",
+        "innenbühne.tmx",
+        "floortileset.tsx",
+        "tileset-lagerfeuer.tsx",
+        "tileset-sz-banner.tsx",
+        "floortileset.tsx",
+        "tileset-sz-banner.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "1440-198-max.tsx",
+        "food_and_drinks.tsx",
+        "tileset-basechip-pipoya.tsx",
+        "tileset-sz-deko.tsx",
+        "tileset-sz-banner.tsx",
+        "floortileset.tsx",
+        "tileset-lagerfeuer.tsx",
+        "innenbühne.tmx",
+        "innenbühne.tmx",
+        "/Users/ral_mey/Downloads/Tiled/tileset-basechip-pipoya.tsx",
+        "/Users/ral_mey/Downloads/Tiled/Workshop.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
