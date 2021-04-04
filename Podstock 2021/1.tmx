@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="70" height="104" tilewidth="32" tileheight="32" infinite="1" nextlayerid="24" nextobjectid="1">
+ <editorsettings>
+  <export target="1.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="tileset-sz-deko" tilewidth="32" tileheight="32" tilecount="192" columns="12">
   <image source="tileset-sz-deko.png" width="384" height="512"/>
  </tileset>
@@ -5687,7 +5690,7 @@
   <image source="wald-visual.jpg" width="2480" height="3508"/>
  </tileset>
  <group id="22" name="Startpunkte">
-  <layer id="23" name="Start_Map" width="70" height="104">
+  <layer id="23" name="startLayer" width="70" height="104">
    <properties>
     <property name="startLayer" type="bool" value="true"/>
    </properties>
