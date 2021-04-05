@@ -5,11 +5,11 @@
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "1.json": {
-            "scale": 0.3448521205357143,
-            "selectedLayer": 1,
+            "scale": 0.34,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1271.5595291071647,
-                "y": 1339.7046806100568
+                "x": 1274.9999999999998,
+                "y": 1697.0588235294117
             }
         },
         "1.json#1440-198-max": {
@@ -44,10 +44,10 @@
         },
         "1.tmx": {
             "scale": 0.34,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 1266.1764705882351,
-                "y": 1794.1176470588234
+                "y": 1791.1764705882351
             }
         },
         "1.tmx#1440-198-max": {
@@ -134,7 +134,8 @@
     ],
     "project": "2021.tiled-project",
     "recentFiles": [
-        "1.json",
-        "1.tmx"
+        "1.tmx",
+        "2.json",
+        "1.json"
     ]
 }
