@@ -1,0 +1,140 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "1.json": {
+            "scale": 0.3448521205357143,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1268.6597354261905,
+                "y": 1792.072494842024
+            }
+        },
+        "1.json#1440-198-max": {
+            "scaleInDock": 1
+        },
+        "1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "1.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "1.json#logo-full": {
+            "scaleInDock": 1
+        },
+        "1.json#signet": {
+            "scaleInDock": 1
+        },
+        "1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "1.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "1.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "1.json#wald-visual": {
+            "scaleInDock": 1
+        },
+        "1.tmx": {
+            "scale": 0.34,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1266.1764705882351,
+                "y": 1794.1176470588234
+            }
+        },
+        "1.tmx#1440-198-max": {
+            "scaleInDock": 1
+        },
+        "1.tmx#floortileset": {
+            "scaleInDock": 1
+        },
+        "1.tmx#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "1.tmx#logo-full": {
+            "scaleInDock": 1
+        },
+        "1.tmx#signet": {
+            "scaleInDock": 1
+        },
+        "1.tmx#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "1.tmx#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "1.tmx#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "1.tmx#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "1.tmx#wald-visual": {
+            "scaleInDock": 1
+        },
+        "2.json": {
+            "scale": 0.3448521205357143,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1265.7599417452163,
+                "y": 1792.072494842024
+            }
+        },
+        "2.json#1440-198-max": {
+            "scaleInDock": 1
+        },
+        "2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "2.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "2.json#logo-full": {
+            "scaleInDock": 1
+        },
+        "2.json#signet": {
+            "scaleInDock": 1
+        },
+        "2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "2.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "2.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "2.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "2.json#wald-visual": {
+            "scaleInDock": 1
+        },
+        "innenbühne.tmx": {
+            "scale": 1.09,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 497.7064220183486,
+                "y": 567.8899082568807
+            }
+        }
+    },
+    "loadedWorlds": [
+    ],
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+    ],
+    "project": "2021.tiled-project",
+    "recentFiles": [
+        "1.json",
+        "1.tmx"
+    ]
+}
