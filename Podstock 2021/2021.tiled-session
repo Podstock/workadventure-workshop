@@ -133,6 +133,7 @@
     "openFiles": [
     ],
     "project": "2021.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "1.tmx",
         "2.json",
