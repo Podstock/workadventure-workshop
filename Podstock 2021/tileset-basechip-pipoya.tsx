@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="tileset-basechip-pipoya" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
- <image source="../GitHub/workadventure-workshop/tileset-basechip-pipoya.png" width="256" height="4256"/>
+ <image source="tileset-basechip-pipoya.png" width="256" height="4256"/>
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="false"/>
@@ -1648,7 +1648,7 @@
  </tile>
  <tile id="329">
   <properties>
-   <property name="collides" type="bool" value="false"/>
+   <property name="collides" type="bool" value="true"/>
   </properties>
  </tile>
  <tile id="330">
@@ -1663,7 +1663,7 @@
  </tile>
  <tile id="332">
   <properties>
-   <property name="collides" type="bool" value="false"/>
+   <property name="collides" type="bool" value="true"/>
   </properties>
  </tile>
  <tile id="333">
@@ -2818,7 +2818,7 @@
  </tile>
  <tile id="563">
   <properties>
-   <property name="collides" type="bool" value="false"/>
+   <property name="collides" type="bool" value="true"/>
   </properties>
  </tile>
  <tile id="564">
