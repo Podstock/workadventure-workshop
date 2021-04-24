@@ -5,43 +5,43 @@
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "1.json": {
-            "scale": 0.28460036057692306,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1136.681623818825,
-                "y": 1665.493322071478
+                "x": 1135.5,
+                "y": 422
             }
         },
         "1.json#1440-198-max": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "1.json#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#food_and_drinks": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#logo-full": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#signet": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#tileset-basechip-pipoya": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#tileset-lagerfeuer": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#tileset-sz-banner": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#tileset-sz-deko": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.json#wald-visual": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "1.tmx": {
             "scale": 0.28460036057692306,
@@ -120,11 +120,11 @@
             "scaleInDock": 1
         },
         "innenbühne.tmx": {
-            "scale": 1,
+            "scale": 1.42,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 496.5,
-                "y": 432
+                "x": 496.8309859154931,
+                "y": 431.6901408450704
             }
         }
     },
