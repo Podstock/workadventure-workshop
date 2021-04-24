@@ -3,7 +3,7 @@
  <properties>
   <property name="collides" type="bool" value="false"/>
  </properties>
- <image source="../GitHub/workadventure-workshop/food_and_drinks.png" width="512" height="2048"/>
+ <image source="food_and_drinks.png" width="512" height="2048"/>
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="true"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="1440-198-max" tilewidth="32" tileheight="32" tilecount="270" columns="45">
- <image source="../../Downloads/1440-198-max.png" width="1440" height="198"/>
+ <image source="1440-198-max.png" width="1440" height="198"/>
  <tile id="198">
   <properties>
    <property name="collides" type="bool" value="true"/>

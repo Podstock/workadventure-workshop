@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="tileset-sz-deko" tilewidth="32" tileheight="32" tilecount="192" columns="12">
- <image source="../GitHub/workadventure-workshop/tileset-sz-deko.png" width="384" height="512"/>
+ <image source="tileset-sz-deko.png" width="384" height="512"/>
  <tile id="84">
   <properties>
    <property name="collides" type="bool" value="true"/>
