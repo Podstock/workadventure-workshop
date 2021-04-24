@@ -5,15 +5,16 @@
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "1.json": {
-            "scale": 0.34,
+            "scale": 0.28460036057692306,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1274.9999999999998,
-                "y": 1697.0588235294117
+                "x": 1136.681623818825,
+                "y": 1665.493322071478
             }
         },
         "1.json#1440-198-max": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "1.json#floortileset": {
             "scaleInDock": 1
@@ -43,11 +44,11 @@
             "scaleInDock": 1
         },
         "1.tmx": {
-            "scale": 0.34,
-            "selectedLayer": 1,
+            "scale": 0.28460036057692306,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1266.1764705882351,
-                "y": 1791.1764705882351
+                "x": 1136.681623818825,
+                "y": 1665.493322071478
             }
         },
         "1.tmx#1440-198-max": {
@@ -81,11 +82,11 @@
             "scaleInDock": 1
         },
         "2.json": {
-            "scale": 0.3448521205357143,
+            "scale": 0.34,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1265.7599417452163,
-                "y": 1792.072494842024
+                "x": 1266.1764705882351,
+                "y": 1794.1176470588234
             }
         },
         "2.json#1440-198-max": {
@@ -118,25 +119,25 @@
         "2.json#wald-visual": {
             "scaleInDock": 1
         },
-        "innenbühne.tmx": {
-            "scale": 1.09,
+        "innenbühne.tmx": {
+            "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 497.7064220183486,
-                "y": 567.8899082568807
+                "x": 496.5,
+                "y": 432
             }
         }
     },
     "loadedWorlds": [
     ],
     "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
     "openFiles": [
     ],
     "project": "2021.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "1.tmx",
-        "2.json",
-        "1.json"
+        "1.json",
+        "1.tmx"
     ]
 }
